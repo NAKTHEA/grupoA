@@ -8,3 +8,17 @@ button{
     border-radius: 20px;
     color:white
 }
+
+li{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(84, 149, 149);
+    box-sizing: content-box;
+    width: 100px;
+    margin-left: 50%;
+}
+
+/* ul{
+    height: 50%;
+} */
