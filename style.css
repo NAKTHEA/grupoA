@@ -1,0 +1,10 @@
+button:hover{
+    scale: 125%;
+    
+}
+
+button{
+    background-color: blue;
+    border-radius: 20px;
+    color:white
+}
